@@ -4,7 +4,6 @@
 Welcome to my GitHub portfolio! I’m Charles Mars, a finance professional with a strong foundation in financial analysis, business intelligence, and data-driven decision-making. My expertise lies in financial modeling, process improvement, and compliance reporting, with experience in transforming complex financial data into actionable insights that drive business growth.
 
 I specialize in:
-
     Financial Reporting: Month-end reporting, variance analysis, and ad-hoc financial analysis using advanced financial systems.
     Process Improvement: Implementing workflow optimizations and automating reporting tools to enhance efficiency and accuracy.
     Business Intelligence: Developing KPIs, analyzing trends, and delivering insights to support financial decision-making.
@@ -19,8 +18,7 @@ Feel free to explore my projects to see how I apply these skills to solve real-w
 
 ---
 I'm currently:
-- 👩‍💻a Data Science Global Ambassador at Z by HP 
-- 👩‍💻a Dev Expert at Weights & Biases
+- 👩‍💻a Data Scientist and Economist at the Rothschildfund
 - 🌱 Sharpening my Deep Learning skill set
 - 👯 Looking to collaborate on Kaggle competitions
 ---
