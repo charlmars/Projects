@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Welcome! 👋</h2>
 
 ---
 Welcome to my GitHub portfolio! I’m Charles Mars, a finance professional with a strong foundation in financial analysis, business intelligence, and data-driven decision-making. My expertise lies in financial modeling, process improvement, and compliance reporting, with experience in transforming complex financial data into actionable insights that drive business growth.
